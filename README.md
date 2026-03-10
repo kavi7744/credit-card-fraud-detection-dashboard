@@ -9,7 +9,7 @@ The dataset used in this project is sourced from Kaggle.
 - Total Transactions: 1,048,575
 - Fraud Transactions: 6006
 - Fraud Rate: 0.57%
-Dataset Link:
+- Dataset Link:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The dataset contains approximately 1 million credit card transactions including fraud and non-fraud records used for fraud detection analysis.
